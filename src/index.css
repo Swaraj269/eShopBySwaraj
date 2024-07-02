@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'outlet-regular';
+    src: url('./fonts/Outfit-Regular.woff2');
+}
+*{
+    font-family: 'outlet-regular';
+}
