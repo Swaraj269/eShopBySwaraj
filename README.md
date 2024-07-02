@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A few days ago, I learned React and made a small project to understand its functionality. I created a tiny e-commerce website where you can sort products by category and add your own product, but it will disappear if you reload because I'm using a fake product API. I learned React Router, React Toast, Context API, useEffect, useState, and many other things. It was fun making this project!
